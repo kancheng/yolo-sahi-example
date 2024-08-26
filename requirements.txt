@@ -1,0 +1,6 @@
+torch
+sahi
+ultralytics
+imantics
+fiftyone
+yolov5
