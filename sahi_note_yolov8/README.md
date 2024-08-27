@@ -1,6 +1,6 @@
 # SAHI Test.
 
-Download : yolov8n-seg.pt , yolov8s.pt
+Download : yolov8n-seg.pt , yolov8s.pt, yolov8n.pt
 
 ## Datasets
 
